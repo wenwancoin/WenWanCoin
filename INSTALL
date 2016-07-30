@@ -1,0 +1,9 @@
+Building wenwancoin
+
+See doc/readme-qt.rst for instructions on building wenwancoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of wenwancoin.
+
+See doc/build-*.txt for instructions on building wenwancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of wenwancoin.
